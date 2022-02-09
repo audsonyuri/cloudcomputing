@@ -4,3 +4,5 @@ resource "aws_s3_bucket" "b" {
   bucket = "luxxy-covid-testing-system-pdf-pt-xxxx"
   acl    = "private"
 }
+
+Teste de versionamento.
